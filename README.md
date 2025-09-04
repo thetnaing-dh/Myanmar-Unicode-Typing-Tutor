@@ -1,5 +1,6 @@
 # Unicode Typing Tutor
-A useful typing tutor application designed to help users practice and improve their English and Myanmar Unicode typing skills. Built with C# and SQLite database, featuring detailed performance analytics and reporting.
+A useful typing tutor application designed to help students practice and improve their English and Myanmar Unicode typing skills. 
+Built with C# and SQLite database, featuring detailed performance analytics and reporting.
 
 ![TypingTutor.png…](https://github.com/thetnaing-dh/Myanmar-Unicode-Typing-Tutor/blob/7c133438729016d8c6fca354497b7aba322de613/TypingTutor.png)
 
