@@ -1,0 +1,253 @@
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe.config
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.pdb
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormLogin.resources
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.Properties.Resources.resources
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.exe
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.pdb
+C:\Users\Asus\source\repos\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormSetting.resources
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe.config
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.pdb
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.AssemblyReference.cache
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormLogin.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1366.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormSetting.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.Properties.Resources.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.GenerateResource.cache
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.CoreCompileInputs.cache
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.exe
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.pdb
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\System.Data.SQLite.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\System.Data.SQLite.xml
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeT.B43539F4.Up2Date
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormRegister.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormResult.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormPassword.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormReportViewer.resources
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\EnvDTE.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\stdole.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1280.resources
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe.config
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.pdb
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\System.Data.SQLite.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\EnvDTE.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\System.Data.SQLite.xml
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.AssemblyReference.cache
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormLogin.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1280.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1366.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1536.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormPassword.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormRegister.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormReportViewer.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormResult.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormSetting.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.Properties.Resources.resources
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.GenerateResource.cache
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.CoreCompileInputs.cache
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeT.B43539F4.Up2Date
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.exe
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.pdb
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1536.resources
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe.manifest
+F:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.application
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.exe.manifest
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.application
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.TrustInfo.xml
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.exe.manifest
+C:\UnicodeTyping\UnicodeTyping\bin\Debug\UnicodeTyping.application
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.TrustInfo.xml
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.exe.manifest
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.application
+C:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.exe.config
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormEnglishTyping1366.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormResultEng.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\UnicodeTyping.exe.config
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\UnicodeTyping.exe.manifest
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\UnicodeTyping.application
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\UnicodeTyping.exe
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\UnicodeTyping.pdb
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\System.Data.SQLite.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\EnvDTE.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\System.Data.SQLite.xml
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.AssemblyReference.cache
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.exe.config
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormEnglishTyping1366.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormLogin.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1280.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1366.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormMyanmarTyping1536.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormPassword.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormRegister.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormReportViewer.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormResult.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormResultEng.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormSetting.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.Properties.Resources.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.GenerateResource.cache
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.csproj.CoreCompileInputs.cache
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.TrustInfo.xml
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.exe.manifest
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.application
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeT.B43539F4.Up2Date
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.exe
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.pdb
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormEnglishTyping1280.resources
+C:\Users\Thet Naing Oo\Desktop\Share Folder\UnicodeTyping\obj\Debug\UnicodeTyping.FormEnglishTyping1536.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormEnglishTyping1280.resources
+F:\UnicodeTyping\UnicodeTyping\obj\Debug\UnicodeTyping.FormEnglishTyping1536.resources
