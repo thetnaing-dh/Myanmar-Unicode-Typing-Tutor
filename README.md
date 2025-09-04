@@ -25,3 +25,6 @@ A useful typing tutor application designed to help users practice and improve th
 4. Follow the on-screen hand position guide
 5. Type the text shown as correctly and carefully as possible
 6. Review results (WPM, accuracy, errors) after completing the lesson
+## Viewing Reports
+1.Navigate to the "Setup" section
+2.Click view students results
